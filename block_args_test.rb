@@ -1,3 +1,4 @@
+#テスト
 def block_args_test
   yield()             # ブロック変数なし
   yield(1)            # ブロック変数1つ
