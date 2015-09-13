@@ -1,5 +1,5 @@
-$x = 0
-x = 0
+$x = "honoka"
+x = "kotori"
 
 require "./sub"
 
